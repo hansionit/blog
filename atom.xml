@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://www.hansion.win/"/>
+  <link href="http://hansionit.gitee.io/blog/"/>
   <updated>2020-04-12T11:31:04.043Z</updated>
-  <id>http://www.hansion.win/</id>
+  <id>http://hansionit.gitee.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.hansion.win/2020/04/12/hello-world/"/>
-    <id>http://www.hansion.win/2020/04/12/hello-world/</id>
+    <link href="http://hansionit.gitee.io/blog/2020/04/12/hello-world/"/>
+    <id>http://hansionit.gitee.io/blog/2020/04/12/hello-world/</id>
     <published>2020-04-12T11:31:04.043Z</published>
     <updated>2020-04-12T11:31:04.043Z</updated>
     
