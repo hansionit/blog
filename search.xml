@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Hexo博客等静态网页提交百度和Google谷歌收录</title>
+      <link href="/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/"/>
+      <url>/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/</url>
+      
+        <content type="html"><![CDATA[<h2 id="站点地图"><a href="#站点地图" class="headerlink" title="站点地图"></a>站点地图</h2><blockquote><p>站点地图是一个网站所有链接的容器。很多网站的连接层次比较深，爬虫很难抓取到，站点地图可以方便爬虫抓取网站页面，通过抓取网站页面，清晰了解网站的架构，网站地图一般存放在根目录下并命名sitemap，为爬虫指路，增加网站重要内容页面的收录。站点地图就是根据网站的结构、框架、内容，生成的导航网页文件。站点地图对于提高用户体验有好处，它们为网站访问者指明方向，并帮助迷失的访问者找到他们想看的页面。</p><p>[^引用自百度百科]: </p></blockquote><h3 id="生成站点地图"><a href="#生成站点地图" class="headerlink" title="生成站点地图"></a>生成站点地图</h3><p>安装站点地图生成插件</p><pre><code>npm install hexo-generator-baidu-sitemap --savenpm install hexo-generator-sitemap --save</code></pre><p>在博客根目录的<code>_config.yml</code>中添加自动生成sitemap的配置</p><pre><code>sitemap:  path: sitemap.xmlbaidusitemap:  path: baidusitemap.xml</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Git新建仓库提交代码</title>
       <link href="/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/"/>
       <url>/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/</url>

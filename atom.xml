@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://w983f9.coding-pages.com/"/>
-  <updated>2020-04-13T12:06:00.996Z</updated>
+  <updated>2020-04-13T12:24:19.167Z</updated>
   <id>http://w983f9.coding-pages.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客等静态网页提交百度和Google谷歌收录</title>
+    <link href="http://w983f9.coding-pages.com/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/"/>
+    <id>http://w983f9.coding-pages.com/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/</id>
+    <published>2020-04-13T12:18:01.000Z</published>
+    <updated>2020-04-13T12:24:19.167Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;站点地图&quot;&gt;&lt;a href=&quot;#站点地图&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="Hexo" scheme="http://w983f9.coding-pages.com/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Git新建仓库提交代码</title>
