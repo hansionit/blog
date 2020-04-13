@@ -3,11 +3,11 @@
   <title>Hexo3</title>
   
   
-  <link href="/hansionit/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hansionit.gitee.io/"/>
+  <link href="http://w983f9.coding-pages.com/"/>
   <updated>2020-04-12T11:31:04.043Z</updated>
-  <id>http://hansionit.gitee.io/</id>
+  <id>http://w983f9.coding-pages.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://hansionit.gitee.io/2020/04/12/hello-world/"/>
-    <id>http://hansionit.gitee.io/2020/04/12/hello-world/</id>
+    <link href="http://w983f9.coding-pages.com/2020/04/12/hello-world/"/>
+    <id>http://w983f9.coding-pages.com/2020/04/12/hello-world/</id>
     <published>2020-04-12T11:31:04.043Z</published>
     <updated>2020-04-12T11:31:04.043Z</updated>
     
