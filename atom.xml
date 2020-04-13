@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://w983f9.coding-pages.com/"/>
-  <updated>2020-04-12T11:31:04.043Z</updated>
+  <updated>2020-04-13T04:42:28.747Z</updated>
   <id>http://w983f9.coding-pages.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://w983f9.coding-pages.com/2020/04/12/hello-world/"/>
-    <id>http://w983f9.coding-pages.com/2020/04/12/hello-world/</id>
-    <published>2020-04-12T11:31:04.043Z</published>
-    <updated>2020-04-12T11:31:04.043Z</updated>
+    <title>Hexo搭建个人博客-Mac/Windows-Coding/Github/码云各种平台完全介绍</title>
+    <link href="http://w983f9.coding-pages.com/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/"/>
+    <id>http://w983f9.coding-pages.com/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/</id>
+    <published>2020-04-13T04:29:52.000Z</published>
+    <updated>2020-04-13T04:42:28.747Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,19 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h2 id=&quot;配置环境&quot;&gt;&lt;a href=&quot;#配置环境&quot; class=&quot;headerlink&quot; title=&quot;配置环境&quot;&gt;&lt;/a&gt;配置环境&lt;/h2&gt;&lt;h3 id=&quot;安装Git&quot;&gt;&lt;a href=&quot;#安装Git&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
+      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="Hexo" scheme="http://w983f9.coding-pages.com/tags/Hexo/"/>
     
   </entry>
   
