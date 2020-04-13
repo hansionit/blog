@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://w983f9.coding-pages.com/"/>
-  <updated>2020-04-13T12:24:19.167Z</updated>
-  <id>http://w983f9.coding-pages.com/</id>
+  <link href="http://www.hansion.win/"/>
+  <updated>2020-04-13T13:27:55.361Z</updated>
+  <id>http://www.hansion.win/</id>
   
   <author>
     <name>Hansion</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo博客等静态网页提交百度和Google谷歌收录</title>
-    <link href="http://w983f9.coding-pages.com/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/"/>
-    <id>http://w983f9.coding-pages.com/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/</id>
-    <published>2020-04-13T12:18:01.000Z</published>
-    <updated>2020-04-13T12:24:19.167Z</updated>
+    <link href="http://www.hansion.win/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/"/>
+    <id>http://www.hansion.win/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/</id>
+    <published>2020-04-13T12:18:01.421Z</published>
+    <updated>2020-04-13T13:27:55.361Z</updated>
     
     <summary type="html">
     
@@ -29,26 +29,20 @@
       
         
         
-          &lt;h2 id=&quot;站点地图&quot;&gt;&lt;a href=&quot;#站点地图&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;title: Hexo博客等静态网页提交百度和Google谷歌收录&lt;br&gt;date: 2020-04-13 20:18:01&lt;br&gt;summary: 部署了博客之后，肯定是希望别人可以搜索到咱。来看看如何提交百度和谷歌收录吧&lt;br&gt;categories:
         
       
     
     </summary>
     
     
-      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    
-      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-      <category term="Hexo" scheme="http://w983f9.coding-pages.com/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Git新建仓库提交代码</title>
-    <link href="http://w983f9.coding-pages.com/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/"/>
-    <id>http://w983f9.coding-pages.com/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/</id>
+    <link href="http://www.hansion.win/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/"/>
+    <id>http://www.hansion.win/2020/04/13/git-xin-jian-cang-ku-ti-jiao-dai-ma/</id>
     <published>2020-04-13T11:38:55.000Z</published>
     <updated>2020-04-13T12:06:00.996Z</updated>
     
@@ -66,17 +60,17 @@
     </summary>
     
     
-      <category term="Git" scheme="http://w983f9.coding-pages.com/categories/Git/"/>
+      <category term="Git" scheme="http://www.hansion.win/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://w983f9.coding-pages.com/tags/Git/"/>
+      <category term="Git" scheme="http://www.hansion.win/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Hexo搭建个人博客-Mac/Windows-Coding/Github/码云各种平台完全介绍</title>
-    <link href="http://w983f9.coding-pages.com/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/"/>
-    <id>http://w983f9.coding-pages.com/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/</id>
+    <link href="http://www.hansion.win/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/"/>
+    <id>http://www.hansion.win/2020/04/13/hexo-da-jian-ge-ren-bo-ke-mac-windows-coding-github-ma-yun-ge-chong-ping-tai-wan-quan-jie-shao/</id>
     <published>2020-04-13T04:29:52.000Z</published>
     <updated>2020-04-13T04:42:28.747Z</updated>
     
@@ -93,12 +87,12 @@
     </summary>
     
     
-      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://www.hansion.win/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="博客搭建" scheme="http://w983f9.coding-pages.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://www.hansion.win/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
-      <category term="Hexo" scheme="http://w983f9.coding-pages.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.hansion.win/tags/Hexo/"/>
     
   </entry>
   
