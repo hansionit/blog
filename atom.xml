@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.hansion.win/"/>
-  <updated>2020-04-13T13:27:55.361Z</updated>
+  <updated>2020-04-13T14:02:24.058Z</updated>
   <id>http://www.hansion.win/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hexo博客等静态网页提交百度和Google谷歌收录</title>
     <link href="http://www.hansion.win/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/"/>
     <id>http://www.hansion.win/2020/04/13/hexo-bo-ke-deng-jing-tai-wang-ye-ti-jiao-bai-du-he-google-gu-ge-shou-lu/</id>
-    <published>2020-04-13T12:18:01.421Z</published>
-    <updated>2020-04-13T13:27:55.361Z</updated>
+    <published>2020-04-13T12:18:01.000Z</published>
+    <updated>2020-04-13T14:02:24.058Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,19 @@
       
         
         
-          &lt;p&gt;title: Hexo博客等静态网页提交百度和Google谷歌收录&lt;br&gt;date: 2020-04-13 20:18:01&lt;br&gt;summary: 部署了博客之后，肯定是希望别人可以搜索到咱。来看看如何提交百度和谷歌收录吧&lt;br&gt;categories:
+          &lt;h2 id=&quot;站点地图&quot;&gt;&lt;a href=&quot;#站点地图&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
+      <category term="博客搭建" scheme="http://www.hansion.win/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="博客搭建" scheme="http://www.hansion.win/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="Hexo" scheme="http://www.hansion.win/tags/Hexo/"/>
     
   </entry>
   

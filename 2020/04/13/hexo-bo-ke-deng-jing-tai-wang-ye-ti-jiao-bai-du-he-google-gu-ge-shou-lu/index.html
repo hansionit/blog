@@ -4,7 +4,10 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Hexo博客等静态网页提交百度和Google谷歌收录, Hansion的博客">
+    
+    
+        <meta name="description" content="Hansion博客，一个记录个人成长的地方。">
+    
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -437,12 +440,29 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">
+                                <span class="chip bg-color">博客搭建</span>
+                            </a>
+                        
+                            <a href="/tags/Hexo/">
+                                <span class="chip bg-color">Hexo</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" class="post-category">
+                                博客搭建
+                            </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -465,7 +485,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    854
+                    845
                 </div>
                 
 
@@ -487,9 +507,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>title: Hexo博客等静态网页提交百度和Google谷歌收录<br>date: 2020-04-13 20:18:01<br>summary: 部署了博客之后，肯定是希望别人可以搜索到咱。来看看如何提交百度和谷歌收录吧<br>categories: 博客搭建<br>tags:</p>
-<pre><code>- 博客搭建
-- Hexo</code></pre><h2 id="站点地图"><a href="#站点地图" class="headerlink" title="站点地图"></a>站点地图</h2><blockquote>
+                <h2 id="站点地图"><a href="#站点地图" class="headerlink" title="站点地图"></a>站点地图</h2><blockquote>
 <p>站点地图是一个网站所有链接的容器。很多网站的连接层次比较深，爬虫很难抓取到，站点地图可以方便爬虫抓取网站页面，通过抓取网站页面，清晰了解网站的架构，网站地图一般存放在根目录下并命名sitemap，为爬虫指路，增加网站重要内容页面的收录。站点地图就是根据网站的结构、框架、内容，生成的导航网页文件。站点地图对于提高用户体验有好处，它们为网站访问者指明方向，并帮助迷失的访问者找到他们想看的页面。</p>
 <p>[^引用自百度百科]: </p>
 </blockquote>
@@ -557,12 +575,16 @@ hexo d</code></pre><p>此时会在<code>public</code>目录下生成两个文件
   path: baidu_urls.txt</code></pre><p>token在推送的接口中有</p>
 <p><img src="https://my-online-pics.oss-cn-beijing.aliyuncs.com/img/20200413212519.png" alt=""></p>
 <ol start="3">
-<li><p>同样是该文件，在<code>deployer</code>中新加一行<code>type: baidu_url_submitter</code>,注意缩进，结果如：</p>
+<li><p>同样是该文件，在<code>deployer</code>中新加一行<code>type: baidu_url_submitter</code>,注意需要为两个<code>type</code>前面添加<code>-</code>符号，结果如：</p>
 <pre><code>deploy:
-  type: git
+- type: git
   repository: https://e.coding.net/hansion_it/Blog.git
   branch: master
-  type: baidu_url_submitter</code></pre></li>
+- type: baidu_url_submitter</code></pre></li>
+<li><p>生成部署</p>
+<pre><code>hexo g
+hexo d</code></pre><p>若最后有输出<code>{"remain":2997,"success":3} INFO  Deploy done: baidu_url_submitter</code>,则代表成功,success的值代表成功多少条，remain的值代表当天剩余可推送条数</p>
+</li>
 </ol>
 </li>
 </ol>
@@ -650,7 +672,15 @@ hexo d</code></pre><p>此时会在<code>public</code>目录下生成两个文件
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">
+                                    <span class="chip bg-color">博客搭建</span>
+                                </a>
+                            
+                                <a href="/tags/Hexo/">
+                                    <span class="chip bg-color">Hexo</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -1096,7 +1126,7 @@ hexo d</code></pre><p>此时会在<code>public</code>目录下生成两个文件
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            title: Hexo博客等静态网页提交百度和Google谷歌收录date: 2020-04-13 20:18:01summary: 部署了博客之后，肯定是希望别人可以搜索到咱。来看看如何提交百度和谷歌收录吧categories: 博客搭建
+                            部署了博客之后，肯定是希望别人可以搜索到咱。来看看如何提交百度和谷歌收录吧
                         
                     </div>
                     <div class="publish-info">
@@ -1105,13 +1135,29 @@ hexo d</code></pre><p>此时会在<code>public</code>目录下生成两个文件
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-user fa-fw"></i>
-                            Hansion
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" class="post-category">
+                                    博客搭建
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
 
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">
+                        <span class="chip bg-color">博客搭建</span>
+                    </a>
+                    
+                    <a href="/tags/Hexo/">
+                        <span class="chip bg-color">Hexo</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
